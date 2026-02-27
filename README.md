@@ -1,4 +1,5 @@
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/cc3e30b0-c754-4d55-930b-1a268f8c0112" />
+<img width="340" height="148" alt="image" src="https://github.com/user-attachments/assets/31a53a09-b1f9-43c9-820f-0df07a1a5a2f" />
+
 
 Exploratory Data Analysis on Students Performance Dataset
 
