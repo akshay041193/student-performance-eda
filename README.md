@@ -1,4 +1,4 @@
-https://www.google.com/imgres?q=student%20performance%20in%20exams&imgurl=https%3A%2F%2Fstorage.googleapis.com%2Felearning-solutions-company-assets%2Fblog%2F2024%2F20230807-assessment-techniques-that-promote-student-performance%2F1--exam-evaluation-.jpg&imgrefurl=https%3A%2F%2Felearning.company%2Fblog%2Fassessment-techniques-that-promote-student-performance%2F&docid=hD24HMlkkl1mGM&tbnid=j4Eq6fk1IyV-eM&vet=12ahUKEwjR74TUzfqSAxX0T0EAHcAmHFoQnPAOegQIKRAB..i&w=1000&h=667&hcb=2&ved=2ahUKEwjR74TUzfqSAxX0T0EAHcAmHFoQnPAOegQIKRAB
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/cc3e30b0-c754-4d55-930b-1a268f8c0112" />
 
 Exploratory Data Analysis on Students Performance Dataset
 
