@@ -23,7 +23,7 @@ Dataset Information  <br>
 
 This dataset contains student exam scores along with demographic and background attributes such as gender, parental education, lunch type, and test preparation. <br>
   
-Objectives of the Analysis <br>  
+Objectives of the Analysis  
 	•	Understand score distributions across subjects <br>
 	•	Compare performance based on gender, lunch type, and test preparation <br>
 	•	Analyze the impact of parental education on student performance <br>
