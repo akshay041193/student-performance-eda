@@ -31,10 +31,10 @@ This dataset contains student exam scores along with demographic and background 
 	•	Identify high-performing student groups <br>
 
 ## Exploratory Data Analysis Tasks  <br>
-• Basic Exploration <br>
-• Univariate Analysis <br>
-• Bivariate Analysis <br>
-• Advanced analysis <br>
+	• Basic Exploration <br>
+	• Univariate Analysis <br>
+	• Bivariate Analysis <br>
+	• Advanced analysis <br>
 
 ## Technologies & Libraries  <br>
 	•	Python <br>
